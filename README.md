@@ -1,3 +1,4 @@
 # titanic
-A deep learning homework. \n
+A deep learning homework.
+
 https://www.kaggle.com/c/titanic
